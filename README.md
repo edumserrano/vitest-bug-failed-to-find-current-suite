@@ -11,6 +11,8 @@
 
 Minimal reproduction repository for a Vitest bug that occurs when debugging tests using the [Vitest VS Code extension](https://marketplace.visualstudio.com/items?itemName=vitest.explorer).
 
+Opened bug report [Vitest failed to find the current suite #9143](https://github.com/vitest-dev/vitest/issues/9143).
+
 ## Bug Description
 
 When attempting to debug a test using the Vitest VS Code extension, the following error is thrown:
